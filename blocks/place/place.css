@@ -9,19 +9,20 @@
 
 @media screen and (max-width:1024px) {
   .place {
-    gap: 48px 32px;
+    gap: 48px 40px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .place {
-    gap: 48px 24px;
+    gap: 48px 28px;
   }
 }
 
 @media screen and (max-width:540px) {
   .place {
-    gap: 48px 0px;
+    gap: 32px;
     grid-template-columns: 1fr;
+  
   }
 }
