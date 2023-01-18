@@ -2,7 +2,7 @@
 
 
 
-**[Ссылка на проект](http://127.0.0.1:5500/index.html)**
+**[Ссылка на проект](https://karinahik.github.io/russian-travel-main/)**
 
 
 
