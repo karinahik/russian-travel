@@ -26,17 +26,17 @@
 }
 
 .cover__overlay:hover::before {
-  opacity: .6;
+  opacity: .8;
 }
 
-/* 1024 */
+
 @media screen and (max-width: 1024px) {
   .cover__overlay {
     min-height: 640px;
   }
 }
 
-/* 768 */
+
 @media screen and (max-width: 768px) {
   .cover__overlay {
     min-height: 480px;
@@ -45,6 +45,6 @@
 
 @media screen and (max-width: 565px) {
   .cover__overlay {
-    min-height: 320px;
+    min-height: 200px;
   }
 }

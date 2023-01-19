@@ -6,9 +6,6 @@
     
 }
 
-
-
-
   @media screen and (max-width: 768px) {
     .place__card{
         gap: 25px;
@@ -19,6 +16,8 @@
   @media screen and (max-width:320px) {
     .place__card {
         gap: 25px;
+        margin-left: 16px;
+        margin-right: 16px;
         
     }
   }

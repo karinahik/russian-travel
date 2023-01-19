@@ -1,15 +1,27 @@
+/* 1280, 1024, 768 */
 .footer__links {
+    margin: 0;
     display: flex;
     list-style: none;
-    padding: 0;
-    gap: 18px;
     flex-wrap: wrap;
-    justify-content: space-around;
-}
-
-@media screen and (max-width: 425px) {
+    
+  }
+  
+  @media screen and (max-width: 480px) {
     .footer__links {
-        flex-direction: column;
-        align-items: flex-start;
+      flex-direction: column;
+      padding-bottom: 48px;
+      text-align: left;
+      padding-left: 16px;
+      
+      
     }
-}
+  }
+
+  @media screen and (max-width: 768px) {
+    .footer__links {
+      max-width: 720px;
+      
+    
+    }
+  }
