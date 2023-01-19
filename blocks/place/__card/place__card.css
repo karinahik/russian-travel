@@ -12,12 +12,13 @@
   @media screen and (max-width: 768px) {
     .place__card{
         gap: 25px;
+        margin: 0 24px;
     }
   }
   
   @media screen and (max-width:320px) {
     .place__card {
         gap: 25px;
-        margin-bottom: 66px;
+        
     }
   }
