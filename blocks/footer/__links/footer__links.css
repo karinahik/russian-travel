@@ -4,19 +4,23 @@
     display: flex;
     list-style: none;
     flex-wrap: wrap;
-    justify-items: flex-start;
     
   }
   
   @media screen and (max-width: 480px) {
     .footer__links {
-      flex-direction: column;
       padding-bottom: 48px;
-      text-align: left;
       padding-left: 16px;
       
     }
   }
+
+  @media  screen and (max-width: 768px) {
+    .footer__links {
+      flex-direction: column; 
+      align-items: flex-start;
+    }
+}
 
 
 

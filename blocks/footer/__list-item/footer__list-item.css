@@ -10,7 +10,7 @@
   @media screen and (max-width: 480px) {
     .footer__list-item {
       margin-right: 0;
-      margin-bottom: 32px;
+      gap: 32px;
     }
   
     .footer__list-item:last-child {
