@@ -1,8 +1,7 @@
-.photo-grid__img {
+.images__item-img {
+    display: block;
     width: 100%;
     object-fit: cover;
     aspect-ratio: 4/3;
+    height: 100%;
 }
-
-
-

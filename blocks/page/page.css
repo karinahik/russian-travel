@@ -1,14 +1,12 @@
 .page {
-  background: #2A2C2F;
-  font-family: "Inter", "Arial", sans-serif;
+  background:#2A2C2F ;
   text-rendering: optimizeLegibility;
   padding: 0;
   max-width: 1184px;
-  min-width: 320px;
   text-align: center;
   color: #ffffff;
-  /*margin: 0 auto;
-  width: 100% padding 0 10px;*/
+  margin: 0 auto;
+
 }
 
 
