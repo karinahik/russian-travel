@@ -29,7 +29,7 @@
 @import url(../blocks/images/images.css);
 @import url(../blocks/images/__wrapper/images__wrapper.css);
 @import url(../blocks/images/__item/images__item.css);
-@import url(../blocks/images/item-img/images__item-img.css);
+@import url(../blocks/images/__grid/images__grid.css);
 
 @import url(../blocks/places/places.css);
 
@@ -54,7 +54,7 @@
 @import url(../blocks/footer/__list-item/footer__list-item.css);
 
 * {
-    font-family: "Inter", "Arial", sans-serif;
+    
     box-sizing: border-box;
     margin: 0;
     padding: 0;
