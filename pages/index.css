@@ -53,13 +53,5 @@
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/footer/__list-item/footer__list-item.css);
 
-* {
-    
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
 
-h1 {
-    margin: 0;
-}
+
