@@ -1,6 +1,7 @@
 .lead__card {
     margin: 0 auto;
     max-width: 984px;
+    font-size: 0;
 }
 
 @media screen and (min-width: 993px) and (max-width: 1200px) {
